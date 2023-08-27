@@ -7,11 +7,11 @@ Contents
  * Exploratory Analysis
  * Visualizations
 
-Data
+Data: 
 The data used in this project is sourced from reliable and up-to-date sources, including [insert_data_sources]. The dataset contains information on monthly unemployment rates, geographical regions, and other relevant economic and demographic factors.
 
-Exploratory Analysis
+Exploratory Analysis:
 In this section, we explore and preprocess the data to understand its structure and quality. We perform descriptive and statistical analysis to identify overall trends and peculiarities in unemployment rates. We also examine the relationship between unemployment and other socioeconomic factors.
 
-Visualizations
+Visualizations:
 We use data visualization tools such as Matplotlib and Seaborn to create informative and clear graphs. These visualizations help identify patterns, seasonal and regional trends, and facilitate the communication of key findings.
